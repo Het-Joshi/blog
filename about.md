@@ -28,8 +28,6 @@ key: page-about
 ---
 <img class="image image--md" src="/het.jpg"/>
 
-# Hi 👋🏾
-
-## I'm Het Joshi
+# Hi 👋🏾 - <h2>I'm Het Joshi</h2>
 
 ### I'm a student, developer and a FOSS enthusiast 
