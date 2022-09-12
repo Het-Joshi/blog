@@ -26,12 +26,11 @@ titles:
   
 key: page-about
 ---
--
----
+--
 
 # Hi 👋🏾
 
-<img class="image image--lg" src="/het.jpg"/>
+<img class="image image--md" src="/het.jpg"/>
 
 # I'm Het Joshi!
 
