@@ -26,7 +26,6 @@ titles:
   
 key: page-about
 ---
----
 <style>
   img{ float: left;}
  </style>
