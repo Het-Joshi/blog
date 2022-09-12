@@ -30,4 +30,4 @@ key: page-about
 
 <span style="font-family:Monospace; font-size:6em;">
 Hi 👋🏾 ~
-</span>
+
