@@ -26,9 +26,8 @@ titles:
   
 key: page-about
 ---
----
 ![alt text](/het.jpg)
----
+
 
 # Hi I'm Het Joshi!
 
