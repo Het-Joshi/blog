@@ -49,7 +49,7 @@ key: page-about
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Live Streaming on [Twitch](https://www.twitch.tv/hetstorm/about).
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Listening to [Music](https://open.spotify.com/user/736tls537c5wkdxh0kst9i4hk?si=901de2e3d9924705).
   
-## <span style="font-family:Monospace; font-size:2em;"> My Coding Journey
+## <span style="font-family:Monospace; font-size:2em;"> [My Coding Journey]
 <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
   I started coding when I was in 9th grade with python. I still remember the smile on my face when the console printed the **Hello World!** message. From then I just kept learning new things and making projects along the way.<br>
 	 By the time I was done with school I knew the basics of HTML and Python. In my Higher Education I came across C++ and thus, learnt more about the features and principles of Object Oriented Programming.<br><br>
@@ -82,29 +82,3 @@ key: page-about
   - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
   - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)
   - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**GitHub** : [Het-Joshi](https://github.com/Het-Joshi)
-			 
-			 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
