@@ -58,6 +58,7 @@ key: page-about
 	 I have also been exploring [Aurdino](https://www.arduino.cc/) to build my own hardware.
    
 ## <span style="font-family:Monospace; font-size:2em;">My Current Skills
+  <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> 
   Here are some of my skills that I have come to learn and strengthen over the years:
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Python 
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> HTML
@@ -75,12 +76,11 @@ key: page-about
     
 ## <span style="font-family:Monospace; font-size:2em;">Contact me
 	<span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">
-    
-    **My E-mail** : hetmatrix@gmail.com
-		**My Phone Number** : +91 7619680062
-		**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
-		**LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)
-		**GitHub** : [Het-Joshi](https://github.com/Het-Joshi)
+  - **My E-mail** : hetmatrix@gmail.com
+  - **My Phone Number** : +91 7619680062
+  - **Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
+  - **LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)
+  - **GitHub** : [Het-Joshi](https://github.com/Het-Joshi)
 			 
 			 
   
