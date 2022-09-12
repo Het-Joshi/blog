@@ -22,8 +22,11 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
+  
   # @end locale config
+  
 key: page-about
+
 ---
 
 # <span style="color:#2B2E4A">Hi I'm Het Joshi!</span>
