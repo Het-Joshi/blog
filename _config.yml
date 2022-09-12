@@ -22,7 +22,9 @@ url     : https://Het-Joshi.github.io # the base hostname & protocol for your si
 baseurl : # does not include hostname
 title   : Het's (Blog)arithm
 description: > # this means to ignore newlines until "Language & timezone"
-  A portfolio site of Het Joshi
+  Dont't be scared to ask questions <br> Writing, thoughts, experiences and
+  perspectives of Het Joshi.
+
 
 
 ## => Language and Timezone
