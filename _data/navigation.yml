@@ -50,7 +50,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-  url: /archive.html
+    url: /archive.html
 
 
   - title: Source-Code
