@@ -27,7 +27,9 @@ titles:
 key: page-about
 ---
 #Hi 👋🏾
+
 ![Het Joshi's profile photo](/het.jpg)
+
 #I'm Het Joshi!
 
 ### I'm a student, developer and a FOSS enthusiast.
