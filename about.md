@@ -69,8 +69,8 @@ key: page-about
 
 ## <span style="font-family:Monospace; font-size:2em;">Some of my notable projects
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> [Android App to text unsaved numbers on 'Whatsapp'](https://github.com/Het-Joshi/WhatsappUnsaved)
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Contributed to the [OpenRGB](https://openrgb.org/) project for Keyboard rgb control on Linux
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> [This site :P](https://github.com/Het-Joshi/blog)
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Contributed to the [OpenRGB](https://openrgb.org/) project for Keyboard rgb control on Linux
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> [This site :P](https://github.com/Het-Joshi/blog)
     
 ## <span style="font-family:Monospace; font-size:2em;">Contact me
 		 <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">
