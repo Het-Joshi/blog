@@ -52,6 +52,8 @@ header:
       # @end locale config
     url: /archive.html
 
-
+  - title: blog
+    url: https://het-joshi.github.io/blog/
+    
   - title: Source-Code
     url: https://github.com/Het-Joshi/Het-Joshi.io
