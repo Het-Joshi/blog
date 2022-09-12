@@ -75,7 +75,7 @@ key: page-about
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> [This site :P](https://github.com/Het-Joshi/blog)
     
 ## <span style="font-family:Monospace; font-size:2em;">Contact me
-  - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**My E-mail** : hetmatrix@gmail.com
+  - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**My E-mail** : [hetmatrix@gmail.com](mailto:hetmatrix@gmail.com)
   - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**My Phone Number** : +91 7619680062
   - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
   - <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">**LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)
