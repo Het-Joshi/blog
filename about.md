@@ -33,7 +33,7 @@ key: page-about
 ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png)
 
 # <span style="font-family:Monospace; font-size:2em;"> Hi 👋🏾 ~
- 
+<div style="font-family:Monospace; font-size:2em;"> 
 <span style="font-size:1.5em; font-family: 'Roboto Mono', monospace;">
   I'm a second year student at [MS Ramaiah Institue of Technology](https://www.msrit.edu/) pursuing my *Bachelor's of Engineering* in *Computer Science and Engineering*.
   <br>
@@ -73,4 +73,4 @@ key: page-about
   
   
   
-  
+  </div>
