@@ -27,3 +27,4 @@ key: page-about
 ---
 
 # <span style="color:#2B2E4A">Hi I'm Het Joshi!</span>
+I'm a student exploring the technology around me
