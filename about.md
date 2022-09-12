@@ -28,6 +28,7 @@ key: page-about
 ---
 <img class="image image--md" src="/het.jpg"/>
 # Hi 👋🏾
+
 ## I'm Het Joshi
 
 ### I'm a student, developer and a FOSS enthusiast 
