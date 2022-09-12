@@ -52,8 +52,8 @@ key: page-about
 ## <span style="font-family:Monospace; font-size:2em;">My Coding Journey
 <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
   I started coding when I was in 9th grade with python. I still remember the smile on my face when the console printed the **Hello World!** message. From then I just kept learning new things and making projects along the way.<br>
-	 By the time I was done with school I knew the basics of HTML and Python. In my Higher Education I cam across C++ and thus, learnt more about the features and principles of Object Oriented Programming.<br>
-	 After that I went on to take many courses online which helped me shape my way of solving and thinking about problems. Some of the most notable courses that I took were - [CS 6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ; [CS 6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) and [100 Day's of Code](https://www.udemy.com/course/100-days-of-code/learn/lecture/29481408?start=1#overview).<br>
+	 By the time I was done with school I knew the basics of HTML and Python. In my Higher Education I cam across C++ and thus, learnt more about the features and principles of Object Oriented Programming.<br><br>
+	 After that I went on to take many courses online which helped me shape my way of solving and thinking about problems. Some of the most notable courses that I took were - [CS 6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ; [CS 6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) and [100 Day's of Code](https://www.udemy.com/course/100-days-of-code/learn/lecture/29481408?start=1#overview).<br><br>
 	 Currently I'm doing a *Bachelor's of Science Degree* in *Data Science and Programming* from [IIT Madaras](https://onlinedegree.iitm.ac.in/) in parallel with my B.E degree!<br>
 	 I have also been exploring [Aurdino](https://www.arduino.cc/) to build my own hardware.
    
