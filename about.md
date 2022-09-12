@@ -22,12 +22,10 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
-  
   # @end locale config
   
 key: page-about
-
 ---
 
-# Hi I'm Het Joshi!
+Hi I'm Het Joshi!
 I'm a student exploring the technology around me
