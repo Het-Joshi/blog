@@ -27,6 +27,9 @@ titles:
 key: page-about
 ---
 ---
+<style>
+  img{ float: left;}
+ </style>
 <img class="image image--md" src="/het.jpg"/>
 ## Hi 👋🏾
 ## I'm Het Joshi
