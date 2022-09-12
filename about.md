@@ -26,8 +26,7 @@ titles:
   
 key: page-about
 ---
---
-
+---
 # Hi 👋🏾
 
 <img class="image image--md" src="/het.jpg"/>
