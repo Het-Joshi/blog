@@ -31,5 +31,5 @@ key: page-about
 <span style="font-family:Monospace; font-size:5em;">
 Hi 👋🏾 ~   <br> 
   
-<span style="font-size:3em;">
+<span style="font-size:2em; font-family: 'Titillium Web', sans-serif;">
 Het joshi here
