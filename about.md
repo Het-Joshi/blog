@@ -26,6 +26,8 @@ titles:
   
 key: page-about
 ---
+---
+
 # Hi 👋🏾
 
 ![Het Joshi's profile photo](/het.jpg)
