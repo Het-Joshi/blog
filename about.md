@@ -26,6 +26,7 @@ titles:
   
 key: page-about
 ---
+---
 ![alt text](/het.jpg)
 ---
 
