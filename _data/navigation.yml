@@ -52,7 +52,7 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title: blog
+  - title: Blog
     url: https://het-joshi.github.io/blog/
     
   - title: Source-Code
