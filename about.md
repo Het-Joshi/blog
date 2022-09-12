@@ -26,8 +26,9 @@ titles:
   
 key: page-about
 ---
-<img class="image image--md" src="/het.jpg"/>
+![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png)
 
-# Hi 👋🏾 ~  I'm Het Joshi 
+# Hi 👋🏾 ~
 
-### I'm a student, developer and a FOSS enthusiast 
+I'm a student, developer and a FOSS enthusiast 
+
