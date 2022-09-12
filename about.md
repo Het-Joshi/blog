@@ -27,6 +27,12 @@ titles:
 key: page-about
 ---
 ---
-<img class="image image--md" src="/het.jpg"/><h1>Hi</h1>
+<style>
+  img{
+    float: left;
+  }
+ </style>
+<img class="image image--md" src="/het.jpg"/><h1>Hi! ![wave](https://user-images.githubusercontent.com/96608251/189708127-ab08c08b-27b1-4ca7-9046-202e72f1a6cc.png) I'm Het Joshi
+</h1>
 
 ### I'm a student, developer and a FOSS enthusiast 
