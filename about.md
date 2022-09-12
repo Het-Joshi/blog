@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-<span style="color:blue">some *blue* text</span>.
+# <span style="color:#2B2E4A">Hi I'm Het Joshi!</span>
