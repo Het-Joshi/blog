@@ -36,8 +36,6 @@ key: page-about
 ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png)
 
 # <span style="font-family:Monospace; font-size:2em;"> Hi 👋🏾 ~
-  
-  
 <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> 
   I'm a second year student at [MS Ramaiah Institue of Technology](https://www.msrit.edu/) pursuing my *Bachelor's of Engineering* in *Computer Science and Engineering*.
   <br>
@@ -49,7 +47,7 @@ key: page-about
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Live Streaming on [Twitch](https://www.twitch.tv/hetstorm/about).
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Listening to [Music](https://open.spotify.com/user/736tls537c5wkdxh0kst9i4hk?si=901de2e3d9924705).
   
-## <span style="font-family:Monospace; font-size:2em;"> [My Coding Journey]
+## <span style="font-family:Monospace; font-size:2em;"> My Coding Journey
 <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
   I started coding when I was in 9th grade with python. I still remember the smile on my face when the console printed the **Hello World!** message. From then I just kept learning new things and making projects along the way.<br>
 	 By the time I was done with school I knew the basics of HTML and Python. In my Higher Education I came across C++ and thus, learnt more about the features and principles of Object Oriented Programming.<br><br>
