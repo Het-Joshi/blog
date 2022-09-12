@@ -29,7 +29,7 @@ key: page-about
 ---
 # Hi 👋🏾
 
-<img class="image image--md" src="/het.jpg"/>
+<img class="image image--md" src="/het.jpg"/>{:.rounded}
 
 # I'm Het Joshi!
 
