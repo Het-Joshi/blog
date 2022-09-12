@@ -50,14 +50,14 @@ key: page-about
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Listening to [Music](https://open.spotify.com/user/736tls537c5wkdxh0kst9i4hk?si=901de2e3d9924705).
   
 ## <span style="font-family:Monospace; font-size:2em;">My Coding Journey
- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
+<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
   I started coding when I was in 9th grade with python. I still remember the smile on my face when the console printed the **Hello World!** message. From then I just kept learning new things and making projects along the way.
 	 By the time I was done with school I knew the basics of HTML and Python. In my Higher Education I cam across C++ and thus, learnt more about the features and principles of Object Oriented Programming.
 	 After that I went on to take many courses online which helped me shape my way of solving and thinking about problems. Some of the most notable courses that I took were - [CS 6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ; [CS 6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) and [100 Day's of Code](https://www.udemy.com/course/100-days-of-code/learn/lecture/29481408?start=1#overview).
 	 Currently I'm doing a *Bachelor's of Science Degree* in *Data Science and Programming* from [IIT Madaras](https://onlinedegree.iitm.ac.in/) in parallel with my B.E degree!
 	 I have also been exploring [Aurdino](https://www.arduino.cc/) to build my own hardware.
+   
 ## <span style="font-family:Monospace; font-size:2em;">My Current Skills
-	 <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">Python 
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">HTML
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">CSS
@@ -66,11 +66,12 @@ key: page-about
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">LinuxConsole
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">Jekyll
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">Android app development
+
 ## <span style="font-family:Monospace; font-size:2em;">Some of my notable projects
-		 <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">
   -<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">[Android App to text unsaved numbers on 'Whatsapp'](https://github.com/Het-Joshi/WhatsappUnsaved)
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">Contributed to the [OpenRGB](https://openrgb.org/) project for Keyboard rgb control on Linux
 	-<span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;">[This site :P](https://github.com/Het-Joshi/blog)
+    
 ## <span style="font-family:Monospace; font-size:2em;">Contact me
 		 <span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">
     **My E-mail** : hetmatrix@gmail.com
