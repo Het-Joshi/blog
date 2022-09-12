@@ -26,6 +26,10 @@ titles:
   
 key: page-about
 ---
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,700&display=swap" rel="stylesheet">
+
 ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png)
 
 <span style="font-family:Monospace; font-size:5em;">
