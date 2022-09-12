@@ -27,10 +27,6 @@ titles:
 key: page-about
 ---
 ---
-# Hi 👋🏾
-
-<img class="image image--md" src="/het.jpg"/>
-
-# I'm Het Joshi!
+<img class="image image--md" src="/het.jpg"/><h1>Hi</h1>
 
 ### I'm a student, developer and a FOSS enthusiast 
