@@ -30,8 +30,8 @@ key: page-about
 
 # Hi 👋🏾
 
-![Het Joshi's profile photo](/het.jpg)
+<img class="image image--lg" src="/het.jpg"/>
 
 # I'm Het Joshi!
 
-### I'm a student, developer and a FOSS enthusiast.
+### I'm a student, developer and a FOSS enthusiast 
