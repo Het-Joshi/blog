@@ -26,11 +26,8 @@ titles:
   
 key: page-about
 ---
-<style>
-  img{ float: left;}
- </style>
 <img class="image image--md" src="/het.jpg"/>
-## Hi 👋🏾
+# Hi 👋🏾
 ## I'm Het Joshi
 
 ### I'm a student, developer and a FOSS enthusiast 
