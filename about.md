@@ -59,14 +59,14 @@ key: page-about
    
 ## <span style="font-family:Monospace; font-size:2em;">My Current Skills
   Here are some of my skills that I have come to learn and strengthen over the years:
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Python 
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> HTML
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> CSS
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> JavaScript
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Ruby
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> LinuxConsole
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Jekyll
-	- <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Android app development
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Python 
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> HTML
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> CSS
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> JavaScript
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Ruby
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> LinuxConsole
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Jekyll
+  - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> Android app development
 
 ## <span style="font-family:Monospace; font-size:2em;">Some of my notable projects
   - <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> [Android App to text unsaved numbers on 'Whatsapp'](https://github.com/Het-Joshi/WhatsappUnsaved)
@@ -75,6 +75,7 @@ key: page-about
     
 ## <span style="font-family:Monospace; font-size:2em;">Contact me
 	<span style="font-size:1.75em; font-family: 'Ubuntu', sans-serif;">
+    
     **My E-mail** : hetmatrix@gmail.com
 		**My Phone Number** : +91 7619680062
 		**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
