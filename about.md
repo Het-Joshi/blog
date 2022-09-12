@@ -32,8 +32,8 @@ key: page-about
 
 ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png)
 
-<span style="font-family:Monospace; font-size:5em;">
-Hi 👋🏾 ~   <br> 
+# <span style="font-family:Monospace; font-size:5em;"> Hi 👋🏾 ~   <br> 
+
   
-<span style="font-size:2em; font-family: 'Roboto Mono', monospace;">
-Het joshi here
+<span style="font-size:1em; font-family: 'Roboto Mono', monospace;">
+
