@@ -36,7 +36,8 @@ key: page-about
  
 <span style="font-size:1.5em; font-family: 'Roboto Mono', monospace;">
   I'm a second year student at [MS Ramaiah Institue of Technology](https://www.msrit.edu/) pursuing my *Bachelor's of Engineering* in *Computer Science and Engineering*.
-  I have always been fascinated by the marvels of technology and the way things just "work as intended" has always peaked my interest since I was a kid.
+  <br>
+  I have always been fascinated by the marvels of technology and the way things just "work as intended" has always peaked my interest since I was a kid.     <br>
   Today as a student I have the opportunity and the resources to take a deep dive in this broad and ever expanding universe.
   My other interests include: 
 <span style="font-size:1.5em; font-family: 'Roboto Mono', monospace;">  
