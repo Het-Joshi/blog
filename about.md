@@ -35,7 +35,7 @@ key: page-about
 # <span style="font-family:Monospace; font-size:2em;"> Hi 👋🏾 ~
   
   
-<div style="font-size:1.5em; font-family: 'Roboto Mono', monospace;"> 
+<span style="font-size:1.5em; font-family: 'Roboto Mono', monospace;"> 
   I'm a second year student at [MS Ramaiah Institue of Technology](https://www.msrit.edu/) pursuing my *Bachelor's of Engineering* in *Computer Science and Engineering*.
   <br>
   I have always been fascinated by the marvels of technology and the way things just "work as intended" has always peaked my interest since I was a kid.     <br>
@@ -45,10 +45,9 @@ key: page-about
   - Photography and photo-editting.
   - Live Streaming on [Twitch](https://www.twitch.tv/hetstorm/about).
   - Listening to [Music](https://open.spotify.com/user/736tls537c5wkdxh0kst9i4hk?si=901de2e3d9924705).
-  </div>
   
 ## <span style="font-family:Monospace; font-size:2em;">My Coding Journey
- <div style="font-size:1.5em; font-family: 'Roboto Mono', monospace;">
+ <span style="font-size:1.5em; font-family: 'Roboto Mono', monospace;">
   I started coding when I was in 9th grade with python. I still remember the smile on my face when the console printed the **Hello World!** message. From then I just kept learning new things and making projects along the way.
   
   
@@ -74,4 +73,4 @@ key: page-about
   
   
   
-</div>
+
