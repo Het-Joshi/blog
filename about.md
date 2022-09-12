@@ -40,7 +40,7 @@ key: page-about
   I have always been fascinated by the marvels of technology and the way things just "work as intended" has always peaked my interest since I was a kid.     <br>
   Today as a student I have the opportunity and the resources to take a deep dive in this broad and ever expanding universe.
   My other interests include: 
-<span style="font-size:1.5em; font-family: 'Roboto Mono', monospace;">  
+  
   - Photography and photo-editting.
   - Live Streaming on [Twitch](https://www.twitch.tv/hetstorm/about).
   - Listening to [Music](https://open.spotify.com/user/736tls537c5wkdxh0kst9i4hk?si=901de2e3d9924705).
