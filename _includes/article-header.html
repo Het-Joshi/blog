@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
 {%- include snippets/get-article-title.html article=include.article-%}
 {%- assign _article_title = __return -%}
 
@@ -17,7 +20,7 @@
     <div class="article__header">
       {%- if _show_title -%}
       <header>
-          <h2 style="color:#fc4d50">{{ _article_title }}</h2>
+          <h2 style="color:#1653CD; font-family: 'Amatic SC', cursive;">{{ _article_title }}</h2>
       </header>
       {%- endif -%}
       {%- if _show_edit_on_github -%}
