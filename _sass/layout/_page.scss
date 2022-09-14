@@ -1,4 +1,7 @@
-body,
+body{.article__content {
+      font-family: 'Ubuntu', sans-serif;
+      font-size:1.5em;
+  }},
 html,
 .root,
 .layout--page {
