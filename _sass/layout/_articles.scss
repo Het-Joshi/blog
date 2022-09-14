@@ -1,3 +1,7 @@
+.article__content {
+      font-family: 'Ubuntu', sans-serif;
+      font-size:1.5em;
+  }
 .layout--articles {
   margin: map-get($spacers, 4) 0;
   margin-top: map-get($spacers, 5);
