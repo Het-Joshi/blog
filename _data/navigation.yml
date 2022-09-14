@@ -2,7 +2,7 @@ header:
  
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       <b>About</b>
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -28,7 +28,7 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       <b>Archive</b>
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -52,8 +52,8 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title: Blog
+  - title: <b>Blog</b>
     url: https://het-joshi.github.io/blog/
     
-  - title: Source-Code
+  - title: <b>Source-Code</b>
     url: https://github.com/Het-Joshi/Het-Joshi.io
