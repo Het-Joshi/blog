@@ -23,8 +23,11 @@ baseurl : # does not include hostname
 title   : <b>Het's (Blog)arithm</b>
 description: > # this means to ignore newlines until "Language & timezone"
   Dont't be scared to ask questions <br> Writing, thoughts, experiences and
-  perspectives of Het Joshi.
-
+  perspectives of Het Joshi. 
+  <br>
+  <br>
+  <br>
+  <b><i><style="color: grey;>"A ship in harbor is safe, but that is not what ships are built for."</style><i><b>
 
 
 ## => Language and Timezone
