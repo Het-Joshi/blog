@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Richard Stallman's Visit to Bengaluru- A Recap of His Thought-Provoking Speech
+title: FOSS and Students - My personal take
 tags: FLOSS Philosophy Students
 author: Het Joshi
 ---
