@@ -37,7 +37,7 @@ key: page-about
 
 # <span style="font-family:Monospace; font-size:1.75em;"> [](https://github.com/Het-Joshi/blog/blob/main/about.md#-hi--) Hi 👋🏾 ~
 <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;"> 
-  I'm a **second year student** at [MS Ramaiah Institue of Technology](https://www.msrit.edu/) pursuing my **Bachelor's of Engineering** in **Computer Science and Engineering**.
+  I'm a **second year student** at [Ramaiah Institute of Technology](https://www.msrit.edu/) pursuing my **Bachelor's of Engineering** in **Computer Science and Engineering**.
   <br>
   I have always been fascinated by the marvels of technology and the way things just "work as intended" has always piqued my interest since I was a kid.     <br>
   Today as a student I have the opportunity and the resources to take a deep dive in this broad and ever expanding universe.
@@ -83,7 +83,7 @@ key: page-about
 ---
 
 ## <span style="font-family:Monospace; font-size:1.75em;"> Contact me
-  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**My E-mail** : [hetmatrix@gmail.com](mailto:hetmatrix@gmail.com)
+  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**My E-mail** : [hetjoshi.mukt@pm.me](mailto:hetjoshi.mukt@pm.me)
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**My Phone Number** : +91 7619680062
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)
