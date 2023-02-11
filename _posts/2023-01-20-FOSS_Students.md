@@ -3,10 +3,6 @@ layout: article
 title: FOSS and Students - My personal take
 tags: FLOSS Philosophy Students
 author: Het Joshi
-article_header:
-  type: cover
-  image:
-    src: /src/RMS.jpeg
 ---
 The Advantages of Using Free and Open-Source Software (FOSS) for Students
 ========================
