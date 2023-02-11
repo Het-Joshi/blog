@@ -3,6 +3,10 @@ layout: article
 title: FOSS and Students - My personal take
 tags: FLOSS Philosophy Students
 author: Het Joshi
+article_header:
+  type: cover
+  image:
+    src: /src/RMS.jpeg
 ---
 The Advantages of Using Free and Open-Source Software (FOSS) for Students
 ========================
@@ -54,4 +58,6 @@ Using FOSS can also open up new career opportunities for students. As the world 
 
 In conclusion, FOSS is not only a cost-effective and practical solution for students, but it also has ethical, moral, community, and career-related benefits. By using FOSS, students can save money, learn new skills, and gain valuable experience that will be beneficial for their future careers. It is time for students to ease into the adaptability of FOSS and make the switch from proprietary software.
 
+---
+picture credits: https://misteri1963.blogspot.com/2018/01/richard-stallman-creador-de-gnu-linux.html
 ---
