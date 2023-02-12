@@ -5,5 +5,5 @@
 layout: home
 title: Don't be scared to ask questions -
        Writing, thoughts, experiences and perspectives of Het Joshi.
-image: /images/me.png
+image:  blog/assets/favicon.ico
 ---
