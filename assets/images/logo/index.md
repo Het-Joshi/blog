@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Don't be scared to ask questions -
-Writing, thoughts, experiences and perspectives of Het Joshi.
+       Writing, thoughts, experiences and perspectives of Het Joshi.
 image: /images/me.png
 ---
