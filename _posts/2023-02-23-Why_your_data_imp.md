@@ -24,7 +24,7 @@ data privacy refers to the `protection` of an individual's personal information,
 phone number, and other `sensitive data`, from being accessed or shared without their consent. And why does it matter?
 Well, think about it - your personal information is like your own little treasure trove. It contains details about your life,
 your habits, your preferences, your likes and dislikes, your financial information, and much more. If this information falls into the `wrong hands`,
-it could be used to harm you in various ways - from `identity theft` and `financial frad` to stalking and `cyberbullying`.
+it could be used to harm you in various ways - from `identity theft` and `financial fraud` to stalking and `cyberbullying`.
 
 ## But I'm just a common man. Why would anyone want to steal my information?
 
@@ -34,7 +34,7 @@ However, the reality is that everyone has something of value that can be exploit
 For example, your personal information, such as your name, email address, and date of birth, can be used to create fake online accounts or even steal your identity.
 Cybercriminals can also use your `financial information`, such as credit card or bank account details, to commit fraud or make unauthorized purchases.
 
-Moreover, `cybercriminals` may not necessarily target individuals for their personal information alone. They can also use your device to launch attacks on other
+Moreover, cybercriminals may not necessarily target individuals for their personal information alone. They can also use your device to launch attacks on other
 individuals or organizations, or hold your device and data ransom for money.
 
 In fact, cybercriminals often target common people precisely because they are less likely to have `strong security` measures in place. Compared to high-profile
@@ -63,7 +63,7 @@ So, what can you do to `protect` your data privacy? Here are some tips:
 Remember, your data privacy is your own `responsibility`. By taking the necessary precautions and staying vigilant, 
 you can `protect yourself` from `potential harm` and enjoy the benefits of the digital world without compromising your privacy.
 
-I hope this article has helped you understand why `data privacy` matters, even for a common man. Stay safe and happy browsing!
+I hope this article has helped you understand why `data privacy matters, even for a common man`. Stay safe and happy browsing!
 
 
 
