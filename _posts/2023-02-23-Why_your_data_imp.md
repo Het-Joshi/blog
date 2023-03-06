@@ -3,6 +3,7 @@ layout: article
 title: Why Even a Common Man's Data Privacy Matters
 tags: CyberSec Personal-View
 author: Het Joshi
+comments: true
 article_header:
   type: cover
   image:
@@ -14,12 +15,12 @@ article_header:
 <br>
 
 Hello there, my dear reader! Today, we're going to talk about a very important topic - `data privacy`! Now,
-I know what you're thinking - "Oh no, not another boring article about `data privacy` and `security`!" 
+I know what you're thinking - "Oh no, not another boring article about data privacy and `security`!" 
 But hold on just a minute, because I promise you, this is going to be a fun and informative read!
 
 ## The what and why
 
-First of all, let's start with the basics. What is `data privacy`, and why does it matter? Well, 
+First of all, let's start with the basics. What is data privacy, and why does it matter? Well, 
 data privacy refers to the `protection` of an individual's personal information, such as their name, address, 
 phone number, and other `sensitive data`, from being accessed or shared without their consent. And why does it matter?
 Well, think about it - your personal information is like your own little treasure trove. It contains details about your life,
@@ -41,7 +42,7 @@ In fact, cybercriminals often target common people precisely because they are le
 `targets` like `celebrities or politicians`, the average person is much easier to hack or manipulate, making them a more attractive target for cybercriminals.
 
 Therefore, it's important to realize that regardless of your status or occupation, your personal information is always at risk. By taking the necessary
-precautions and `staying vigilant`, you can protect yourself from potential harm and enjoy the benefits of the digital world without compromising your `privacy`.
+precautions and `staying vigilant`, you can protect yourself from potential harm and enjoy the benefits of the digital world ` %N vwithout compromising your privacy`.
 
 ## Basic Precautions
 
