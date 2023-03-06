@@ -34,7 +34,7 @@ key: page-about
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
 
 ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png)
-<img src="/banner.png">
+<img src="banner.png">
 
 # <span style="font-family:Monospace; font-size:1.75em;"> [](https://github.com/Het-Joshi/blog/blob/main/about.md#-hi--) Hi 👋🏾 ~
 <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;"> 
