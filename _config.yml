@@ -38,7 +38,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : Het Joshi
   url       :
-  avatar    : /het.jpg # path or url of avatar image (square)
+  avatar    : /het.jpeg # path or url of avatar image (square)
   bio       : Student / Developer / Geek
   email     : hetmatrix@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
