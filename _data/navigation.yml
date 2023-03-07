@@ -53,10 +53,10 @@ header:
     url: /archive.html
 
   - title: <b>Blog</b>
-    url: https://het-joshi.github.io/blog/
+    url: https://het-joshi.github.io/
     
   - title: <b>Source-Code</b>
-    url: https://github.com/Het-Joshi/Het-Joshi.io
+    url: https://github.com/Het-Joshi/Het-Joshi.github.io
     
   - title: <b>RSS-Feed</b>
-    url: https://het-joshi.github.io/blog/feed.xml
+    url: https://het-joshi.github.io/feed.xml
