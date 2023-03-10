@@ -30,7 +30,14 @@ title: About
 </script>
 <hr>
 {% if page.comments %}
-  <script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
+  <div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="6d339875-c078-4955-8df5-0a27d1392741"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   {% endif %}
