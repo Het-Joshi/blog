@@ -12,6 +12,11 @@ The Advantages of Using Free and Open-Source Software (FOSS) for Students
 As students, we are constantly surrounded by technology and are expected to use various software for our daily tasks and projects. However, many of the software options available to us are proprietary, meaning that they are owned and controlled by a single company. In this blog post, we will explore the benefits of using Free and Open-Source Software (FOSS) and why students should employ it instead of proprietary software.
 
 ---
+## Unleash rour Curiosity!
+
+As a student, one has the inquisitive nature to learn how something works. One of the Key advantages of using FOSS is that we have complete access to the **Source-Code** making it possible to go through it and understand how the piece of software works! This is very interesting and allows us to learn a lot of things and even implement a few elements into our own projects! I personally feel this is one of the largest factors that makes FOSS perfect for students.
+
+---
 ## Cost-effective
 
 One of the most obvious advantages of using FOSS is that it is usually free to download and use. This means that students do not have to spend money on expensive software licenses, which can be a major burden for those on a tight budget. Moreover, many FOSS programs have no or lower costs when compared to proprietary software, which can be a significant savings for students.
