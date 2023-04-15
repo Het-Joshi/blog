@@ -36,7 +36,7 @@ key: page-about
 <!-- ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png) -->
 <img src="banner.png">
 
-# <span style="font-family:Monospace; font-size:1.75em;"> [](https://github.com/Het-Joshi/blog/blob/main/about.md#-hi--) Hi 👋🏾 ~
+# <span style="font-family:Monospace; font-size:1.75em;"> [](https://github.com/Het-Joshi/blog/blob/main/about.md#-hi--) Hi 👋🏾 ~   
 <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;"> 
   I'm a **second year student** at [Ramaiah Institute of Technology](https://www.msrit.edu/) pursuing my **Bachelor's of Engineering** in **Computer Science and Engineering**.
   <br>
@@ -59,8 +59,7 @@ key: page-about
 	 I have also been exploring [Aurdino](https://www.arduino.cc/) to build my own hardware.
 
 ---
-  
-<a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/buttons/iam-majorgeek.jpg" alt="i am a major geek" border="0"></a>
+
 
 ## <span style="font-family:Monospace; font-size:1.75em;"> My Current Skills
   <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> 
