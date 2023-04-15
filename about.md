@@ -59,6 +59,8 @@ key: page-about
 	 I have also been exploring [Aurdino](https://www.arduino.cc/) to build my own hardware.
 
 ---
+  
+<a href="http://www.innergeek.us"><img src="http://www.innergeek.us/grafix/buttons/iam-majorgeek.jpg" alt="i am a major geek" border="0"></a>
 
 ## <span style="font-family:Monospace; font-size:1.75em;"> My Current Skills
   <span style="font-size:1.5em; font-family: 'Ubuntu', sans-serif;"> 
