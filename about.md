@@ -86,7 +86,6 @@ key: page-about
 
 ## <span style="font-family:Monospace; font-size:1.75em;"> Contact me
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**My E-mail** : [hetjoshi.mukt@pm.me](mailto:hetjoshi.mukt@pm.me)
-  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**My Phone Number** : +91 7619680062
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)
   - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**GitHub** : [Het-Joshi](https://github.com/Het-Joshi)
