@@ -42,7 +42,7 @@ In fact, cybercriminals often target common people precisely because they are le
 `targets` like `celebrities or politicians`, the average person is much easier to hack or manipulate, making them a more attractive target for cybercriminals.
 
 Therefore, it's important to realize that regardless of your status or occupation, your personal information is always at risk. By taking the necessary
-precautions and `staying vigilant`, you can protect yourself from potential harm and enjoy the benefits of the digital world ` %N vwithout compromising your privacy`.
+precautions and `staying vigilant`, you can protect yourself from potential harm and enjoy the benefits of the digital world `without compromising your privacy`.
 
 ## Basic Precautions
 
