@@ -4,10 +4,6 @@ title: Why Even a Common Man's Data Privacy Matters
 tags: CyberSec Personal-View
 author: Het Joshi
 comments: true
-article_header:
-  type: cover
-  image:
-    src: /src/Data.jfif
 ---
 
 
