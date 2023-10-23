@@ -15,6 +15,8 @@ Hinduism - an often misunderstood word. Hinduism is a way of life as expressed b
 The term 'Religion' as we understand it today is a notion from 'Judeo-Abrahmic' traditions and is very very different from our understanding of the term 'Dharm' in Bharat. This was a derivation from a statement given by the Supreme Court of India Itself!
 However when the Supreme Court says this, it does not take away the status of Hinduism as a faith to guarantee the provisions of Article 26.
 
+Dharm - Performing your duties righteously without expecting any favours in return. This is as Open-Source as it gets!
+
 Perhaps nowhere else in the World has the quest for meaning taken so many different hues than Bharat. The term 'Bharat' itself is a word that means _The land of those who seek knowledge_.
 ## The Linkages with FOSS Philosophy
 
