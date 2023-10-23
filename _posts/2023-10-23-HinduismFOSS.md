@@ -53,7 +53,7 @@ This flexibility assured by Hinduism is what sets it apart. It is not only the P
 
 "The whole world is my family" When related to open source, it can convey the idea that the open-source community, like a family, transcends boundaries and welcomes contributors and users from all around the world. Open source software, in this sense, is a collaborative effort that unites individuals from diverse backgrounds in a global "family" working together for the common good.
 
-![[religionFork.png]]
+![image](https://github.com/Het-Joshi/Het-Joshi.github.io/assets/96608251/2bb8d576-20a3-46fb-a535-bc038ec9c105)
 
 Ayyavazi, Buddhism, and Jainism are often considered to have evolved as distinct paths or belief systems that share some historical and philosophical roots with Hinduism, making them, in a sense, akin to "forks" in the broader religious and philosophical landscape.
 
