@@ -1,3 +1,11 @@
+---
+layout: article
+title: Exploring Hinduism Through the Open-Source Lens
+tags: FLOSS Philosophy Personal-View
+author: Het Joshi
+comments: true
+---
+
 The thought of writing this blog post occurred to me recently when I started rediscovering my roots as a Hindu Brahman. I was already doing so much work around FOSS so I thought to myself "Why not merge these two together?"
 
 ## What is Hinduism? And a little Backstory
@@ -45,7 +53,7 @@ This flexibility assured by Hinduism is what sets it apart. It is not only the P
 
 "The whole world is my family" When related to open source, it can convey the idea that the open-source community, like a family, transcends boundaries and welcomes contributors and users from all around the world. Open source software, in this sense, is a collaborative effort that unites individuals from diverse backgrounds in a global "family" working together for the common good.
 
-![[Pasted image 20231023234324.png]]
+![[religionFork.png]]
 
 Ayyavazi, Buddhism, and Jainism are often considered to have evolved as distinct paths or belief systems that share some historical and philosophical roots with Hinduism, making them, in a sense, akin to "forks" in the broader religious and philosophical landscape.
 
