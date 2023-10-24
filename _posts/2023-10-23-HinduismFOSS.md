@@ -81,5 +81,5 @@ In the realm of Indic philosophy, there are no hidden secrets. Yoga's core princ
 The process of uncovering and reimagining the divine is entirely within your control.
 
 ### References
-- https://www.researchgate.net/publication/233686650_Open-Source_Hinduism
-- https://www.huffpost.com/entry/the-god-project-hinduism_b_486099
+- [Open-Source Hinduism](https://www.researchgate.net/publication/233686650_Open-Source_Hinduism)
+- [The God Project](https://www.huffpost.com/entry/the-god-project-hinduism_b_486099)
