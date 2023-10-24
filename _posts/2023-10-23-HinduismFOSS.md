@@ -27,8 +27,7 @@ Perhaps nowhere else in the World has the quest for meaning taken so many differ
 Rig Veda, Mandala 10, hymn CXXIX. Creation.
 Nasadiya Sukta ("Not the non-existent")
 
-In the Rig Veda, the oldest of all Hindu texts and also possibly the oldest of all spiritual texts on the planet, Bhagwan Prajapati is shown to be raising unanswerable questions, to pile up paradoxes.
-While the God of the Old Testament was giving Commandments, Prajapati was asking - "Who am I?"
+Within the Rig Veda, the most ancient of Hindu scriptures and conceivably one of the earliest spiritual texts worldwide, Bhagwan Prajapati is depicted as posing unanswerable questions, constructing enigmatic paradoxes. In contrast to the God of the Old Testament, who was issuing commandments, Prajapati was inquiring, "Who am I?"
 
 Since opening the Floodgates on the divine and most fundamental questions, the Bharatiya thought has followed a remarkable journey of introspection and self-questioning, continually seeking to understand the depths of existence and the profound mysteries of the universe both Philosophically and Scientifically.
 
@@ -80,3 +79,7 @@ The non-religious aspects of open-source Hinduism have served as a source of ins
 In the realm of Indic philosophy, there are no hidden secrets. Yoga's core principle is that the pathway to the divine resides within oneself. This profound idea demonstrates the forward-looking mindset of our ancestors.
 
 The process of uncovering and reimagining the divine is entirely within your control.
+
+### References
+- https://www.researchgate.net/publication/233686650_Open-Source_Hinduism
+- https://www.huffpost.com/entry/the-god-project-hinduism_b_486099
