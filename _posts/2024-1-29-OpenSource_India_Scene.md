@@ -10,12 +10,12 @@ comments: true
 Off late, I witnessed a rise in the videos complaining about the poor quality of Pull Requests that are being submitted. India has been getting a lot of heat since most of these not-so-required pull requests originate here.
 
 
-
-![](/home/jet/.var/app/com.github.marktext.marktext/config/marktext/images/2024-01-29-14-11-23-image.png)
+![image](https://github.com/Het-Joshi/Het-Joshi.github.io/assets/96608251/b9623662-376e-43ce-8c69-9a3c9a7184a0)
 
 [Should Indians Contribute To Open Source - Harikirat Singh](https://www.youtube.com/watch?v=4Ac1Z-HHlxY)
 
-![Screenshot from 2024-01-29 14-08-03.png](/home/jet/Pictures/Screenshot%20from%202024-01-29%2014-08-03.png)
+
+![image](https://github.com/Het-Joshi/Het-Joshi.github.io/assets/96608251/e3c8dc6c-db1e-4088-a949-1a0bdded9207)
 
 [Don't Contribute to Open Source - Theo t3.gg](https://www.youtube.com/watch?v=5nY_cy8zcO4)
 
@@ -46,8 +46,7 @@ This makes the life of the project maintainers hell and defeats the whole purpos
 Open Source events like the GSoC have been reduced to mere competetions that help you secure a job.
 
 
-
-![](/home/jet/.var/app/com.github.marktext.marktext/config/marktext/images/2024-01-29-17-17-48-image.png)
+![image](https://github.com/Het-Joshi/Het-Joshi.github.io/assets/96608251/165db80b-219a-44de-b7c1-9678b3097c8b)
 
 
 
@@ -100,16 +99,10 @@ There are tons of problems to solve from making Linux packages to serve as alter
 
 ## Conclusion
 
-![](/home/jet/.var/app/com.github.marktext.marktext/config/marktext/images/2024-01-29-17-22-15-image.png)
+
+![image](https://github.com/Het-Joshi/Het-Joshi.github.io/assets/96608251/bb731459-4090-40ad-86a9-3a2ba2d4cf2f)
 
 (Source: [@arthurflorette](https://twitter.com/arthurfiorette/status/1747985965702881555))
-
-
-
-Here is a shoutout to the Made-In-India collection of GitHub where you can start by improving these ongoing projects by adding value.
-
-[Collection: Made in India · GitHub](https://github.com/collections/made-in-india)
-
 
 
 Let's correct our wrongs and also guide those who we know engage in these practises.
@@ -119,4 +112,6 @@ It's time we moved on from such petty reasons and helped projects by adding grea
 
 Thank you, Jai Hind!
 
+P.S Here is a shoutout to the Made-In-India collection of GitHub where you can start by improving these ongoing projects by adding value.
 
+[Collection: Made in India · GitHub](https://github.com/collections/made-in-india)
