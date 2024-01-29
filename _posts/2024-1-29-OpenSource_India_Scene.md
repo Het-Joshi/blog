@@ -1,5 +1,10 @@
-# How Open-Source contributions have lost their meaning
-
+---
+layout: article
+title: How Open-Source contributions have lost their meaning
+tags: FLOSS Personal-View
+author: Het Joshi
+comments: true
+---
 ## The Recent Social Media Outrage
 
 Off late, I witnessed a rise in the videos complaining about the poor quality of Pull Requests that are being submitted. India has been getting a lot of heat since most of these not-so-required pull requests originate here.
