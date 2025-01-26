@@ -36,6 +36,7 @@ key: page-about
 <!-- ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png) -->
 <img src="banner.png">
 
+<div style="text-align: center;">
   <a href="https://scholar.google.com/citations?user=WNNiy-8AAAAJ&hl=en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="40">
   </a>
@@ -55,6 +56,7 @@ key: page-about
   <a href="https://www.instagram.com/therealhetjoshi/" style="margin-left: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/512px-Instagram_icon.png" alt="Instagram" width="40">
   </a>
+</div>
 
 
 # <span style="font-family:Monospace; font-size:1.75em;"> [](https://github.com/Het-Joshi/blog/blob/main/about.md#-hi--) Namaste 👋🏾 ~   
