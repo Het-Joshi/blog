@@ -75,19 +75,19 @@ My research interests lie at the intersection of cybersecurity, privacy, and net
 ## <span style="font-family:Monospace; font-size:1.75em;"> Publications
 
 Cryptographic Bastions
-published as a book chapter in Cloud Security: Concepts, Applications, and Practices (1st ed.) (CRC Press)
-Authors: Het Joshi, J.S. Murthy, G. M., S., & G., S.K. (Eds.)
-DOI: [10.1201/9781003455448](https://doi.org/10.1201/9781003455448)
+> published as a book chapter in Cloud Security: Concepts, Applications, and Practices (1st ed.) (CRC Press)
+> Authors: Het Joshi, J.S. Murthy, G. M., S., & G., S.K. (Eds.)
+> DOI: [10.1201/9781003455448](https://doi.org/10.1201/9781003455448)
 
 CHARGE GUARD: Early Detection of DDoS Attacks at EV Charging Stations Using Lightweight Micro Neural Network
-published as a patent (Government of India, Patent No. 31/2024)
-Authors: Manjula L, G. T. Raju, Chethana H. R., Rajan M. A., Shashidhar H. R., Soumya C. S., Akshatha S. Bayyar, Het Joshi Rutul
-Publication Date: 02/08/2024
-Application No. 202441056189
+> published as a patent (Government of India, Patent No. 31/2024)
+> Authors: Manjula L, G. T. Raju, Chethana H. R., Rajan M. A., Shashidhar H. R., Soumya C. S., Akshatha S. Bayyar, Het Joshi Rutul
+> Publication Date: 02/08/2024
+> Application No. 202441056189
 
 CyberGuard EV: Enhanced DDoS Defense in Charging Networks Using Lightweight Micro Neural Networks
-accepted for publication in Algorithms for Intelligent Systems (Springer Journal)
-Authors: Manjula L, G. T. Raju, Chethana H. R., Het Rutul Joshi
+> accepted for publication in Algorithms for Intelligent Systems (Springer Journal)
+> Authors: Manjula L, G. T. Raju, Chethana H. R., Het Rutul Joshi
 
 ---
 
