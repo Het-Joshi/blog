@@ -42,7 +42,7 @@ key: page-about
   </a>
   
   <a href="mailto:hetjoshi.mukt@pm.me" style="margin-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="Email" width="40">
+    <img src="https://img.icons8.com/?size=100&id=Q8HkDlg5eBIc&format=png&color=000000" alt="Email" width="40">
   </a>
 
   <a href="https://www.linkedin.com/in/hetjoshi/" style="margin-left: 15px;">
