@@ -36,8 +36,6 @@ key: page-about
 <!-- ![Het Joshi](https://user-images.githubusercontent.com/96608251/189712835-cf028417-6ac1-4e49-b4c5-bd98bf0ca61a.png) -->
 <img src="banner.png">
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
   <a href="https://scholar.google.com/citations?user=WNNiy-8AAAAJ&hl=en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="40">
     <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
@@ -63,7 +61,6 @@ key: page-about
     <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
   </a>
 
-</div>
 
 # <span style="font-family:Monospace; font-size:1.75em;"> [](https://github.com/Het-Joshi/blog/blob/main/about.md#-hi--) Namaste 👋🏾 ~   
 <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;"> 
