@@ -112,9 +112,4 @@ Here are some standout projects I’ve worked on:
   - [**Netra and LokDrishti**](https://github.com/Het-Joshi/NETRA) : Automated incident response and log monitoring solutions that can be deployed for no-cost with optimal performance.
 
 ---
-
-## <span style="font-family:Monospace; font-size:1.75em;"> Contact Me  
-  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**My E-mail** : [hetjoshi.mukt@pm.me](mailto:hetjoshi.mukt@pm.me)  
-  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**LinkedIn** : [Het Joshi](https://www.linkedin.com/in/hetjoshi/)  
-  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**GitHub** : [Het-Joshi](https://github.com/Het-Joshi)  
-  - <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;">**Instagram** : [@therealhetjoshi](https://www.instagram.com/therealhetjoshi/)
+<img src="collage.png">
