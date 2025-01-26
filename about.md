@@ -38,27 +38,22 @@ key: page-about
 
   <a href="https://scholar.google.com/citations?user=WNNiy-8AAAAJ&hl=en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="40">
-    <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
   </a>
   
-  <a href="mailto:hetjoshi.mukt@pm.me" style="text-decoration: none; display: flex; align-items: center;">
+  <a href="mailto:hetjoshi.mukt@pm.me" style="margin-left: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="Email" width="40">
-    <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
   </a>
 
-  <a href="https://www.linkedin.com/in/hetjoshi/" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/hetjoshi/" style="margin-left: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/512px-LinkedIn_logo_initials.png" alt="LinkedIn" width="40">
-    <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
   </a>
 
-  <a href="https://github.com/Het-Joshi" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+  <a href="https://github.com/Het-Joshi" style="margin-left: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/512px-Octicons-mark-github.svg.png" alt="GitHub" width="40">
-    <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
   </a>
 
-  <a href="https://www.instagram.com/therealhetjoshi/" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+  <a href="https://www.instagram.com/therealhetjoshi/" style="margin-left: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/512px-Instagram_icon.png" alt="Instagram" width="40">
-    <span style="margin-left: 10px; font-family: 'Ubuntu', sans-serif; font-size: 1em;">
   </a>
 
 
