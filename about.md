@@ -70,6 +70,7 @@ key: page-about
 <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;"> 
 
 > Keywords: Computer Networks, Computer Security, Privacy preserving Technologies, Measurements and Performance Analysis
+
 My research interests lie at the intersection of cybersecurity, privacy, and network security, with a strong focus on designing resilient and privacy-preserving systems. I am particularly interested in analyzing and mitigating security threats in IoT networks, ensuring robust encryption, access control mechanisms, and efficient key exchange protocols for resource-constrained devices. My work also explores privacy-preserving technologies, including anonymity networks like Tor, to safeguard user identities, enhance censorship resistance, and measure the effectiveness of different obfuscation techniques. Additionally, I am fascinated by network security, particularly in detecting and defending against cyber threats, optimizing secure protocols, and fortifying critical infrastructure. A key aspect of my research involves security and privacy measurements—evaluating attack surfaces, analyzing real-world traffic patterns, and assessing the effectiveness of defense mechanisms through empirical studies. By bridging the gap between theoretical security models and real-world applications, my research aims to develop practical solutions for enhancing privacy and security in modern digital ecosystems.
 
 ---
