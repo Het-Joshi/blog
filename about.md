@@ -98,10 +98,10 @@ CyberGuard EV: Enhanced DDoS Defense in Charging Networks Using Lightweight Micr
 <span style="font-size:1em; font-family: 'Ubuntu', sans-serif;"> 
 Here are some highlights of my journey so far:  
    
-  - `Founder of [**Mukti**](https://mukticommunity.github.io/)`, the largest Free and Open Source Software (FOSS) community in Karnataka, with over 1,200 active members nationwide. Mukti has conducted nationwide workshops and seminars on cybersecurity, AI, and emerging technologies in collaboration with prestigious institutions such as IIT Bombay - Trust Lab and organizations like FOSS UNITED, FSMK.  
+  - `Founder` of [**Mukti**](https://mukticommunity.github.io/), the largest Free and Open Source Software (FOSS) community in Karnataka, with over 1,200 active members nationwide. Mukti has conducted nationwide workshops and seminars on cybersecurity, AI, and emerging technologies in collaboration with prestigious institutions such as IIT Bombay - Trust Lab and organizations like FOSS UNITED, FSMK.  
   - `Delivered keynote speeches, webinars, and workshops` at **IndiaFOSS 2023 and 2024**, **IEEE TechFest 2023**, **FOSSMeet 2024**, and for the IEEE Bangalore Chapter. 
   - Awarded the **Top Speaker at FOSSMeet 2024** for my impactful presentations and workshops.
-  - Currently pursuing my `research internship` at **IIT Bombay - Trust Lab** , focusing on network security, privacy, communication protocols, and performance analysis of emerging technologies.
+  - Currently working as a `Security Research Intern` at **IIT Bombay - Trust Lab** , focusing on network security, privacy, communication protocols, and performance analysis of emerging technologies.
 
 ---
 
