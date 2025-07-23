@@ -19,7 +19,7 @@
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://Het-Joshi.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : dark # does not include hostname
+baseurl : # does not include hostname
 title   : "The 'Generic' Blog"
 description:  # this means to ignore newlines until "Language & timezone"
   Dont't be scared to ask questions <br> Writing, thoughts, experiences and perspectives of
