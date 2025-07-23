@@ -52,9 +52,6 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title: <b>Blog</b>
-    url: https://het-joshi.github.io/
-
   - title: <b>Security Blog</b>
     url: https://het-joshi.github.io/robots_txt/
     
