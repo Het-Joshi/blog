@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://Het-Joshi.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : "Het's (Blog)arithm"
+title   : "The 'Generic' Blog"
 description:  # this means to ignore newlines until "Language & timezone"
   Dont't be scared to ask questions <br> Writing, thoughts, experiences and perspectives of
   Het Joshi. 
@@ -39,7 +39,7 @@ author:
   name      :     Het Joshi
   url       : 
   avatar    : https://avatars.githubusercontent.com/u/96608251?s=400&u=f321af71671a95172f2272b3281db9ffa42a6b17&v=4 # path or url of avatar image (square)
-  bio       :     Hacker | Student | FOSS Evangelist
+  bio       :     Hacker | Student | Researcher
   email     : hetmatrix@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : jetjoshi # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
